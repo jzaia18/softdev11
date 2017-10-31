@@ -1,0 +1,33 @@
+body {
+    background: #FF00FF;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+    color: #00FFFF;
+    size: 60px;
+}
+
+h2 {
+    color: #00FFFF;
+    size: 40px;
+}
+
+h3 {
+    color: #00FFFF;
+    size: 30px;
+}
+
+ul {
+    background-image: url("http://i.imgur.com/2mxy4KF.jpg");
+}
+
+p {
+    color: #FFFF00;
+}
+
+a {
+    color: #FFFF00;
+    border: solid 2px;
+}

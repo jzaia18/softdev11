@@ -1,0 +1,28 @@
+body {
+    background: navy;
+    text-align: center;
+}
+
+h1 {
+    color: gold;
+    size: 60px;
+}
+
+h2 {
+    color: gold;
+    size: 40px;
+}
+
+h3 {
+    color: gold;
+    size: 30px;
+}
+
+p {
+    color: gold;
+}
+
+a {
+    color: khaki;
+    border: solid 2px;
+}
